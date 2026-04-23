@@ -1,0 +1,12 @@
+random_seed=6761
+stress_quantile_on_dev=0.75
+stress_threshold_value=1.0
+comet_model=Unbabel/wmt22-comet-da
+dev_rows_exported=2685
+any_disagreement_flag=352
+err_high_comet_bad_mqm=197
+err_low_comet_good_mqm=7
+err_high_bleu_bad_mqm=193
+err_low_bleu_good_mqm=46
+err_high_chrf_bad_mqm=184
+err_low_chrf_good_mqm=27
