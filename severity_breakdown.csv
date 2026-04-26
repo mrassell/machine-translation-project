@@ -1,0 +1,22 @@
+category,HOTW-test,Major,Minor,No-error,nan
+Accuracy/Addition,0,28,10,0,0
+Accuracy/Creative Reinterpretation,0,2,60,0,0
+Accuracy/Mistranslation,0,385,536,0,0
+Accuracy/Omission,0,71,14,0,0
+Accuracy/Source language fragment,0,43,30,0,0
+Fluency/Grammar,0,25,202,0,0
+Fluency/Inconsistency,0,11,1,0,0
+Fluency/Punctuation,0,7,310,0,0
+Fluency/Register,0,1,14,0,0
+Fluency/Spelling,0,1,73,0,0
+Found,92,0,0,0,0
+Locale convention/Currency format,0,0,3,0,0
+Missed,3,0,0,0,0
+No-error,0,0,0,232,0
+Other,0,11,9,0,0
+Source issue,0,23,33,0,0
+Style/Bad sentence structure,0,22,2,0,0
+Style/Unnatural or awkward,0,53,291,0,0
+Terminology/Inappropriate for context,0,43,38,0,0
+Terminology/Inconsistent,0,0,1,0,0
+nan,0,0,0,0,5
