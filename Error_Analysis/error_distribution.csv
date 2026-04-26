@@ -1,0 +1,22 @@
+Error Category,Count,Percentage
+Accuracy/Mistranslation,921,34.30167597765363
+Style/Unnatural or awkward,344,12.811918063314712
+Fluency/Punctuation,317,11.806331471135941
+No-error,232,8.640595903165735
+Fluency/Grammar,227,8.45437616387337
+Found,92,3.4264432029795158
+Accuracy/Omission,85,3.165735567970205
+Terminology/Inappropriate for context,81,3.016759776536313
+Fluency/Spelling,74,2.7560521415270016
+Accuracy/Source language fragment,73,2.718808193668529
+Accuracy/Creative Reinterpretation,62,2.3091247672253257
+Source issue,56,2.085661080074488
+Accuracy/Addition,38,1.415270018621974
+Style/Bad sentence structure,24,0.8938547486033519
+Other,20,0.74487895716946
+Fluency/Register,15,0.5586592178770949
+Fluency/Inconsistency,12,0.44692737430167595
+nan,5,0.186219739292365
+Locale convention/Currency format,3,0.11173184357541899
+Missed,3,0.11173184357541899
+Terminology/Inconsistent,1,0.037243947858472994
